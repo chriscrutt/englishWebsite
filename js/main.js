@@ -155,7 +155,7 @@
             }
 
             else {
-                window.location.href = "articles";
+                window.location.href = "/articles";
             }
 
         });
