@@ -156,7 +156,7 @@
 					.slideUp(200);
 
 			} else {
-				window.location.href = "/articles";
+				window.location.href = "./articles.html";
 			}
 
 		});
